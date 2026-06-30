@@ -23,4 +23,4 @@ The design is clean, modern, and user-friendly across devices.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fitcore-gym.git
+   git clone https://github.com/Abdoo295/fitcore-gym.git
